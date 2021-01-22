@@ -1,0 +1,13 @@
+$bg-color:rgba(228, 152, 109, 0.753);
+
+body {
+    background-color: $bg-color;
+}
+
+nav {
+    li{
+        a{
+            background: purple;
+        }
+    }
+}

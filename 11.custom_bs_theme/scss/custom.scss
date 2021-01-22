@@ -1,0 +1,11 @@
+// customize colors which will over write defaults
+
+$theme-colors: (
+  "primary": #4c00d9, // updated to new value
+  "danger": #ffda36 // updated new value
+);
+
+//import complete bs as below
+
+@import '../bootstrap/scss/bootstrap.scss'
+

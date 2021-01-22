@@ -1,0 +1,11 @@
+- Check the theme section on official docs
+- copy bs soruce code to bootstrap folder
+- create a new folder called scss to customize the scss file.
+- put custom.scss file here and bring all bs here and make changes.
+- all compiled css will be placed in css folder.
+- after koala compile, we can see complete bs css file.
+
+- To change colors, we can indidually update primary, danger etc
+or download a color palette from https://flatuicolors.com/ or 
+
+

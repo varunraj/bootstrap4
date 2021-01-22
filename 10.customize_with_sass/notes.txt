@@ -1,0 +1,16 @@
+- Download the bootstrap source code to customize it and placed under bootstrap folder
+- go the scss folder to see the scss files for the project
+- We can see individual scss files for each bs features
+- Then there is a bootstrap.scss file which have import for all these files together.
+- All contents in dist/css folder is created from these scss files.
+
+We can take individual components and make our own mini bs.
+
+- Created a new file bootstrap/scss/my-version.scss
+- Do some selective imports in this file.
+    - Added imports for table and dropdown. Also some intial ones which are basic functions.
+
+- Use koala desktop app to complile this scss file into css file.
+    - Deselect all except 'my-version.scss' and set to compile.
+    - Now if we compile the scss file, we will get a custom css file we can use in the project.
+- Now use this custom css in the link tag of html file.

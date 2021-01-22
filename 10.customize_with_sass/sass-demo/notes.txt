@@ -1,0 +1,3 @@
+- Create a sass file with sass code
+- Use Koala (desktop app) to compile .sass file to css file. 
+    - Output path is set to compliled_css/final.css
